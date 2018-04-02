@@ -3,10 +3,10 @@
 --
 -- Copyright 2014-2015, John McNamara, jmcnamara@cpan.org
 --
-require "numberbook.xlsxwriter.strict"
+require "xlsxwriter.strict"
 
-local Utility   = require "numberbook.xlsxwriter.utility"
-local Xmlwriter = require "numberbook.xlsxwriter.xmlwriter"
+local Utility   = require "xlsxwriter.utility"
+local Xmlwriter = require "xlsxwriter.xmlwriter"
 
 ------------------------------------------------------------------------------
 --

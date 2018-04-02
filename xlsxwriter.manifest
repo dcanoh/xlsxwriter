@@ -3,6 +3,7 @@ author    = John McNamara
 date      = 2018/04/01
 version   = 0.0.6
 windows   = x86:windows/x86/lua/app.lua,windows/x86/lua/contenttypes.lua,windows/x86/lua/core.lua,windows/x86/lua/format.lua,windows/x86/lua/packager.lua,windows/x86/lua/relationships.lua,windows/x86/lua/sharedstrings.lua,windows/x86/lua/strict.lua,windows/x86/lua/styles.lua,windows/x86/lua/theme.lua,windows/x86/lua/utility.lua,windows/x86/lua/workbook.lua,windows/x86/lua/worksheet.lua,windows/x86/lua/xmlwriter.lua
+depends   = zipwriter
 docs      = https://xlsxwriterlua.readthedocs.io
 license   = MIT/X11
 mantainer = lide team
